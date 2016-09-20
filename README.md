@@ -2,9 +2,9 @@
 
 This project contains three files:
 
-1.index.html
-1.stylesheet.css
-1.app.js
+1. index.html
+1. stylesheet.css
+1. app.js
 
 ##index.html
 
